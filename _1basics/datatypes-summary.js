@@ -38,7 +38,7 @@ anothername = "rishi"
 console.log(anothername);
 console.log(myYoutubename);
 
-// but you can change the value because both use the same refrence 
+// but you can change the value because both use the same reference 
 
 let userOne = {
     email:"user@googl.com",
