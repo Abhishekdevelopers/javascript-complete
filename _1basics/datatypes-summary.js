@@ -18,7 +18,7 @@ const heros = ["shaktiman", "abhishek", "Rishi"];
 
 let myObj = {
     name:"abhishek",
-    age=25,
+    age:25,
 }
 const details = function(){
     console.log("hello abhishek");
